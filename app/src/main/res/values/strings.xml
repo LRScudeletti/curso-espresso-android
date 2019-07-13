@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Expresso AndroidTests</string>
+
+    <!-- LOGIN -->
+    <string name="tela_login">Login</string>
+    <string name="usuario_login_hint">Usuário</string>
+    <string name="senha_login_hint">Senha</string>
+    <string name="manter_conectado">Manter-me conectado</string>
+    <string name="botao_entrar">Logar</string>
+    <string name="preencha_todos_campos_login">Por favor, preecha todos os campos.</string>
+    <string name="usuario_senha_invalidos">Usuário e / ou senha inválidos.</string>
+
+    <!-- PRINCIPAL -->
+    <string name="bem_vindo">Bem-vindo(a) ao App</string>
+
+</resources>
