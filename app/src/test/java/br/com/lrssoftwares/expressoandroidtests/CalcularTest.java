@@ -11,6 +11,7 @@ public class CalcularTest {
     @Test
     public void teste_01_testarSoma() {
         Random gerador = new Random();
+
         double valor1 = gerador.nextDouble();
         double valor2 = gerador.nextDouble();
 
